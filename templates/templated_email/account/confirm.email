@@ -1,0 +1,16 @@
+{% load i18n %}
+
+{% block subject %}
+  {% trans "Account confirmation e-mail" context "Account confirmation e-mail subject" %}
+{% endblock %}
+
+{% block plain %}
+{% include 'templated_email/shared/_header.email' %}
+
+
+{% include 'templated_email/shared/_footer.email' %}
+{% endblock %}
+
+{% block html %}
+{% include 'templated_email/compiled/confirm.html' %}
+{% endblock %}

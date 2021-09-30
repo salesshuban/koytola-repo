@@ -1,0 +1,80 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Koytola - Coming Soon...</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+
+    <link rel="stylesheet" href="{% static '/landing/vendor/bootstrap/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+    <link rel="stylesheet" href="{% static '/landing/css/style.css' %}" id="theme-stylesheet">
+    <link rel="stylesheet" href="{% static '/landing/css/custom.css' %}">
+
+    <!-- Tweaks for older IEs--><!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+  </head>
+
+  <body>
+    <section style="background: url({% static '/landing/img/commerce-3.jpg' %})" class="page-holder position-relative d-flex justify-content-between flex-column">
+      <div class="overlay"></div>
+      <div class="container position-relative pt-3 pb-5">
+        <ul class="list-inline text-center text-lg-right">
+          <li class="list-inline-item"><a href="https://www.linkedin.com/company/koytolaa/" class="social-link linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+        </ul>
+      </div>
+
+      <div class="container text-center text-white position-relative">
+        <h1 class="text-shadow mb-5">Koytola coming soon...</h1>
+        <p class="h2 font-family-base font-weight-light text-shadow mb-4">Take a look at our short introduction video to get to know us.</p>
+      </div>
+
+      <div class="container text-center text-white position-relative">
+        <object data="https://www.youtube.com/embed/8-yag5w7deI" width="60%" height="360"></object>
+      </div>
+
+      <div class="container text-white position-relative text-center">
+        <p class="h4 font-family-base font-weight-light mt-4 mb-4 text-shadow">Join our mailing list to be updated from our news!</p>
+        <div class="row">
+          <div class="col-lg-5 mx-auto">
+            <div id="mc_embed_signup">
+              <form action="https://koytola.us10.list-manage.com/subscribe/post?u=08fa43db26efbfa20a654f29a&amp;id=66d0972c94" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate d-flex d-inline-block w-100 flex-column flex-lg-row justify-content-center" target="_blank" novalidate>
+                <input type="email" value="" name="EMAIL" class="email form-control mb-2 mr-sm-2 transparent-bg" id="mce-EMAIL" placeholder="Your Email Address..." required>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_08fa43db26efbfa20a654f29a_66d0972c94" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary letter-spacing-3 mb-2"></div>
+              </form>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+              <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer class="py-4 position-relative w-100 text-small">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 text-center text-white text-sm-left">
+              <p>&copy;2020 Koytola &mdash; Get in touch with us for details on <a href = "mailto:abc@example.com?subject=Koytola%20Website%20Contact"><b>export@koytola.com</b></a>.</p>
+            </div>
+            <div class="col-sm-6 text-center text-white text-sm-right">
+              <p class="mb-1">Design by <a href="https://bootstrapious.com/" class="text-white">Bootstrapious</a></p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
+    <!-- JavaScript files-->
+    <script src="{% static '/landing/vendor/jquery/jquery.min.js' %}"></script>
+    <script src="{% static '/landing/vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+    <!-- FontAwesome CSS - loading as last, so it doesn't block rendering-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </body>
+</html>

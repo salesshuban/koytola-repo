@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html>
+<head>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <title>INVOICE</title>
+</head>
+<body style="background-color:#fff;">
+{% load i18n %}
+      {% load i18n_address_tags %}{% load static %}
+  <table style="background:#ffffff;position: relative; font-family: 'Poppins', sans-serif;  border-spacing: 0; border-collapse:collapse; width: 100%; margin: 0 auto;">
+  <tbody>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <p style="font-weight: 500;
+                    font-size: 15px;
+                    color: #000;
+                    text-align: center;
+                    margin: 40px auto;
+                    line-height: 36px;">{% trans "Merhaba"  noop %}<br />
+                    {% trans "We have transferred your request to the supplier."  noop %}<br />
+                    {% trans "They will be connecting you directly." noop %}<br />
+                    {% trans "If anything is urgent here is the supplier's info."  noop %}<br />
+                    {% trans "Let us know if we can help with anything." noop %}
+            </p>
+        </td>
+    </tr> 
+
+    <tr>
+        <td style="text-align: center;">
+          <div style="width: 50%;
+          margin: auto;">
+            <ul style="width: 50%;
+            float: left;
+            padding-left: 0;
+            margin: 0;
+            list-style: none;">
+              <li style="color: #7A38DA;
+              font-weight: 600;margin-bottom: 10px;"> {% trans "Request details" noop %}</li>
+              <li style="color: #7A38DA;
+              font-weight: 500;">
+                {{ order.product.name }}
+              </li>
+              <li style="color: #7A38DA;
+              font-weight: 500;">
+                {{ order.quantity }}
+              </li>
+              <li style="color: #7A38DA;
+              font-weight: 500;">
+                {{ order.message }}
+              </li>
+              <li style="width: 100%;
+              display: inline-block;"></li>
+            </ul>
+            <ul style="list-style: none;
+            margin: 0;
+            padding-left: 0;">
+              <li style="color: #7A38DA;
+              font-weight: 600;margin-bottom: 10px;">{% trans "Exporter info" noop %}</li>
+              <li style="color: #000;
+              font-weight: 500;">
+                {{ order.product.company.name }}
+              </li>
+              <li style="color: #000; font-weight: 500;">
+                  {% if order.product.company.representative.first %}
+                    {{ order.product.company.representative.first.name }}
+                  {% else %}
+                  {% endif %}
+              </li>
+              <li style="color: #000;
+              font-weight: 500;">
+                {{ order.product.company.user.email }}
+              </li>
+              <li style="color: #000;
+              font-weight: 500;">
+                  {% if order.product.company.user.phone %}
+                     {{ order.product.company.user.phone }}
+                  {% else %}
+                  {% endif %}
+              </li>
+            </ul>
+          </div>
+        </td> 
+    </tr>  
+
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <h3 style="font-size: 26px;
+            letter-spacing: 2px;
+            margin-top: 50px;
+            font-weight: 600;
+            color: #000;">{% trans "TEAM KOYTOLA" noop %}</h3>
+        </td>
+    </tr> 
+    <tr>
+        <td colspan="2" style="float: right;">
+            <p style="line-height: 1;
+              margin-top: 0;
+              float: left;
+              text-align: right;
+              position: relative;
+              top: -80px;">
+              <img style="width: 150px;
+                position: relative;
+                right: 60px;
+                top: 0px;
+                height: 75px;
+                object-fit: cover;" src="https://testing-backend.koytola.com/media/emails/arrow_img.gif" alt="">
+
+                <span style="display: inline-block;
+                  width: 100%;
+                  font-weight: 600;
+                  font-size: 18px;
+                  color: #000;
+                  margin-bottom: 10px;
+                  z-index: 9999999;
+                  position: relative;">{% trans "Contact" noop %}</span>
+
+                <span style="display: inline-block;
+                  width: 100%;
+                  font-weight: 600;
+                  font-size: 18px;
+                  color: #000;
+                  position: relative;
+                  z-index: 99999;">{% trans "export@koytola.com" noop %}</span>
+            </p>
+        </td>
+    </tr>   
+   
+
+    </tbody>
+  </table>
+
+</body>
+</html>
+

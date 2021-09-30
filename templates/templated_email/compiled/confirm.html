@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <title>Confirm Account</title>
+</head>
+<body style="background-color:#fff;">
+{% load i18n %}
+      {% load i18n_address_tags %}{% load static %}
+<table style="background:#ffffff;position: relative; font-family: 'Poppins', sans-serif;  border-spacing: 0; border-collapse:collapse; width: 100%; margin: 0 auto;">
+    <tr>
+      <td width="15%" style="vertical-align: top;">
+        <img style="position: absolute;
+        top: 30px;
+        left: 30px;
+        width: 200px;max-width:100%;display:block;" src="https://testing-backend.koytola.com/media/emails/tumblr.gif" alt="">
+      </td>
+        <td width="70%">
+            <table style="background:#ffffff;position: relative; font-family: 'Poppins', sans-serif;  border-spacing: 0; border-collapse:collapse; width: 100%; margin: 0 auto;">
+  <tbody>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <p style="font-weight: 500;
+                    font-size: 15px;
+                    color: #000;
+                    text-align: center;
+                    margin: 40px auto;
+                    line-height: 36px;">
+                    {% trans "Merhaba" noop %} <br /><br />
+
+                    {% trans "Koytola ya katıldığın için teşekkürler." noop %}<br />
+                    {% trans "Şu anda platformumuzu geliştirme aşamasındayız." noop %}<br />
+                    {% trans "Her geçen gün yeni bir özelliği kullanıma açıyoruz." noop %}<br />
+                    {% trans "Bu süreçte bizimle olduğun için ayrıca teşekkürler." noop %}<br />
+            </p>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <p style="font-weight: 500;margin-top: 30px;
+                    font-size: 15px;
+                    color: #000;
+                    line-height: 36px;
+                    text-align: center;
+                    margin: 0px auto;">
+                    {% trans "Thank you for joining Koytola." noop %} <br />
+                    {% trans "We are still working on development and doing our" noop %} <br />
+                    {% trans "best to activate new features all the time." noop %} <br />
+                    {% trans "Thank you for being with us and sharing this experience." noop %} <br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;padding-top:20px;">
+            <a href="{{ confirm_url | safe }}" style="background: #7a38da;
+    padding: 10px 25px;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+    font-size: 14px;">{% trans "Confirm Account" noop %}</a>
+
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <h3 style="font-size: 26px;
+            letter-spacing: 2px;
+            font-weight: 600;
+            color: #000;">{% trans "TEAM KOYTOLA" noop %}</h3>
+        </td>
+    </tr>
+
+
+
+    </tbody>
+  </table>
+        </td>
+        <td width="15%" style="vertical-align: bottom;">&nbsp;</td>
+    </tr>
+    <tr>
+        <td width="100%" colspan="3" style="text-align:right;">
+            <p style="line-height: 1;
+              margin-top: 0;
+              text-align: right;
+              position: relative;
+              top: -80px;">
+              <img style="width: 150px;
+                position: relative;
+                right: 60px;
+                top: 0px;
+                height: 75px;
+                object-fit: cover;" src="https://testing-backend.koytola.com/media/emails/arrow_img.gif" alt="">
+
+                <span style="display: inline-block;
+                  width: 100%;
+                  font-weight: 600;
+                  font-size: 18px;
+                  color: #000;
+                  margin-bottom: 10px;
+                  z-index: 9999999;
+                  position: relative;">{% trans "Contact" noop %}</span>
+
+                <span style="display: inline-block;
+                  width: 100%;
+                  font-weight: 600;
+                  font-size: 18px;
+                  color: #000;
+                  position: relative;
+                  z-index: 99999;">{% trans "export@koytola.com" noop %}</span>
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+</body>
+</html>
+

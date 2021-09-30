@@ -1,0 +1,471 @@
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-09 11:41:28,308: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-09 11:41:28,322: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-09 11:41:29,348: INFO/MainProcess] mingle: all alone
+[2021-08-09 11:41:29,369: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-09 11:41:29,369: INFO/MainProcess] celery@tst-desktop ready.
+[2021-08-09 11:41:29,507: INFO/MainProcess] Received task: koytola.account.emails._send_account_confirmation_email[23fab51f-8064-4551-8b1c-7d5c4175166c]  
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-09 11:41:33,335: INFO/ForkPoolWorker-1] Task koytola.account.emails._send_account_confirmation_email[23fab51f-8064-4551-8b1c-7d5c4175166c] succeeded in 3.8259546330000376s: None
+[2021-08-09 11:41:49,594: INFO/MainProcess] Received task: koytola.account.emails._send_account_confirmation_email[c613faab-1967-4043-9bd9-197aac9a94cd]  
+[2021-08-09 11:41:52,716: INFO/ForkPoolWorker-1] Task koytola.account.emails._send_account_confirmation_email[c613faab-1967-4043-9bd9-197aac9a94cd] succeeded in 3.121133030999772s: None
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-09 12:03:08,617: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-09 12:03:08,625: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-09 12:03:09,644: INFO/MainProcess] mingle: all alone
+[2021-08-09 12:03:09,659: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-09 12:03:09,659: INFO/MainProcess] celery@tst-desktop ready.
+[2021-08-09 13:07:33,383: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 1083, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 354, in on_readable
+    chan.handlers[type]()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 688, in _receive
+    ret.append(self._receive_one(c))
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 698, in _receive_one
+    response = c.parse_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3505, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3479, in _execute
+    return command(*args, **kwargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2021-08-09 13:07:33,493: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/1: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@tst-desktop v4.4.7 (cliffs)
+--- ***** ----- 
+-- ******* ---- Linux-5.11.0-25-generic-x86_64-with-glibc2.29 2021-08-09 12:03:08
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         koytola:0x7f645cf01d00
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     disabled://
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . koytola.account.emails._send_account_confirmation_email
+  . koytola.account.emails._send_account_delete_confirmation_email_with_url
+  . koytola.account.emails._send_password_reset_email_with_url
+  . koytola.account.emails._send_request_email_change_email
+  . koytola.account.emails._send_set_user_password_email_with_url
+  . koytola.account.emails._send_user_change_email_notification
+  . koytola.account.thumbnails.create_user_avatar_thumbnails
+  . koytola.app.tasks.install_app_task
+  . koytola.invoice.emails.send_invoice
+  . koytola.order.emails.send_order_canceled
+  . koytola.order.emails.send_order_confirmation
+  . koytola.order.emails.send_order_refunded
+  . koytola.order.emails.send_payment_confirmation
+  . koytola.order.emails.send_staff_order_confirmation
+  . koytola.product.thumbnails.create_category_background_image_thumbnails
+  . koytola.product.thumbnails.create_product_thumbnails
+  . koytola.profile.thumbnails.create_company_logo_thumbnails
+
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "user" doesn't exist on Django model "product.ProductQuery". Consider removing the field from the "fields" list of DjangoObjectType "ProductQuery" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-12 10:10:03,388: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-12 10:10:03,397: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-12 10:10:04,416: INFO/MainProcess] mingle: all alone
+[2021-08-12 10:10:04,452: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-12 10:10:04,452: INFO/MainProcess] celery@tst-desktop ready.
+[2021-08-12 13:02:54,449: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 1083, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 354, in on_readable
+    chan.handlers[type]()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 688, in _receive
+    ret.append(self._receive_one(c))
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 698, in _receive_one
+    response = c.parse_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3505, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3479, in _execute
+    return command(*args, **kwargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2021-08-12 13:02:54,536: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/1: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@tst-desktop v4.4.7 (cliffs)
+--- ***** ----- 
+-- ******* ---- Linux-5.11.0-25-generic-x86_64-with-glibc2.29 2021-08-12 10:10:02
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         koytola:0x7fd2b158cb80
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     disabled://
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . koytola.account.emails._send_account_confirmation_email
+  . koytola.account.emails._send_account_delete_confirmation_email_with_url
+  . koytola.account.emails._send_password_reset_email_with_url
+  . koytola.account.emails._send_request_email_change_email
+  . koytola.account.emails._send_set_user_password_email_with_url
+  . koytola.account.emails._send_user_change_email_notification
+  . koytola.account.thumbnails.create_user_avatar_thumbnails
+  . koytola.app.tasks.install_app_task
+  . koytola.invoice.emails.send_invoice
+  . koytola.order.emails.send_order_canceled
+  . koytola.order.emails.send_order_confirmation
+  . koytola.order.emails.send_order_refunded
+  . koytola.order.emails.send_payment_confirmation
+  . koytola.order.emails.send_staff_order_confirmation
+  . koytola.product.emails.send_confirm_order_mail_
+  . koytola.product.thumbnails.create_category_background_image_thumbnails
+  . koytola.product.thumbnails.create_product_thumbnails
+  . koytola.profile.thumbnails.create_company_logo_thumbnails
+
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-13 04:32:02,305: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-13 04:32:02,323: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-13 04:32:03,408: INFO/MainProcess] mingle: all alone
+[2021-08-13 04:32:03,429: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-13 04:32:03,430: INFO/MainProcess] celery@tst-desktop ready.
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-13 05:38:51,598: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-13 05:38:51,635: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-13 05:38:52,692: INFO/MainProcess] mingle: all alone
+[2021-08-13 05:38:52,714: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-13 05:38:52,714: INFO/MainProcess] celery@tst-desktop ready.
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-13 08:54:42,123: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-13 08:54:42,162: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-13 08:54:43,219: INFO/MainProcess] mingle: all alone
+[2021-08-13 08:54:43,303: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-13 08:54:43,303: INFO/MainProcess] celery@tst-desktop ready.
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-13 10:20:21,630: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-13 10:20:21,681: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-13 10:20:22,734: INFO/MainProcess] mingle: all alone
+[2021-08-13 10:20:22,790: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-13 10:20:22,790: INFO/MainProcess] celery@tst-desktop ready.
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-13 13:03:53,866: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-13 13:03:53,874: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-13 13:03:54,896: INFO/MainProcess] mingle: all alone
+[2021-08-13 13:03:54,915: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-13 13:03:54,916: INFO/MainProcess] celery@tst-desktop ready.
+[2021-08-13 13:04:11,911: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 1083, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 354, in on_readable
+    chan.handlers[type]()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 688, in _receive
+    ret.append(self._receive_one(c))
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/kombu/transport/redis.py", line 698, in _receive_one
+    response = c.parse_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3505, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/client.py", line 3479, in _execute
+    return command(*args, **kwargs)
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2021-08-13 13:04:11,961: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379/1: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@tst-desktop v4.4.7 (cliffs)
+--- ***** ----- 
+-- ******* ---- Linux-5.11.0-25-generic-x86_64-with-glibc2.29 2021-08-13 13:03:53
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         koytola:0x7f795e764d00
+- ** ---------- .> transport:   redis://localhost:6379/1
+- ** ---------- .> results:     disabled://
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . koytola.account.emails._send_account_confirmation_email
+  . koytola.account.emails._send_account_delete_confirmation_email_with_url
+  . koytola.account.emails._send_password_reset_email_with_url
+  . koytola.account.emails._send_request_email_change_email
+  . koytola.account.emails._send_set_user_password_email_with_url
+  . koytola.account.emails._send_user_change_email_notification
+  . koytola.account.thumbnails.create_user_avatar_thumbnails
+  . koytola.app.tasks.install_app_task
+  . koytola.invoice.emails.send_invoice
+  . koytola.order.emails.send_order_canceled
+  . koytola.order.emails.send_order_confirmation
+  . koytola.order.emails.send_order_refunded
+  . koytola.order.emails.send_payment_confirmation
+  . koytola.order.emails.send_staff_order_confirmation
+  . koytola.product.emails.send_confirm_order_mail_
+  . koytola.product.thumbnails.create_category_background_image_thumbnails
+  . koytola.product.thumbnails.create_product_thumbnails
+  . koytola.profile.thumbnails.create_company_logo_thumbnails
+
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-16 06:36:39,234: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-16 06:36:39,286: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-16 06:36:40,307: INFO/MainProcess] mingle: all alone
+[2021-08-16 06:36:40,357: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-16 06:36:40,357: INFO/MainProcess] celery@tst-desktop ready.
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-16 06:56:17,956: INFO/MainProcess] Connected to redis://localhost:6379/1
+[2021-08-16 06:56:18,144: INFO/MainProcess] mingle: searching for neighbors
+[2021-08-16 06:56:19,248: INFO/MainProcess] mingle: all alone
+[2021-08-16 06:56:19,392: WARNING/MainProcess] /media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/celery/fixups/django.py:205: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+[2021-08-16 06:56:19,392: INFO/MainProcess] celery@tst-desktop ready.
+[2021-08-16 09:11:27,754: INFO/MainProcess] Received task: koytola.account.emails._send_account_confirmation_email[009ee363-4135-4ea4-acec-7da20904e559]  
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "name" doesn't exist on Django model "profile.Certificate". Consider removing the field from the "fields" list of DjangoObjectType "Certificate" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "location" doesn't exist on Django model "product.PortDeals". Consider removing the field from the "fields" list of DjangoObjectType "PortDeals" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "summary" doesn't exist on Django model "blog.Blog". Consider removing the field from the "fields" list of DjangoObjectType "BlogTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "content_plaintext" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "NewsTranslatableContent" because it has no effect.
+  warnings.warn(
+/media/tst/276f9705-5305-4677-a95b-28368dfe3f4e/home/lokesh/Documents/lokesh/koytola/koytola-dev/venv/lib/python3.8/site-packages/graphene_django/types.py:94: UserWarning: Field name "description" doesn't exist on Django model "news.News". Consider removing the field from the "fields" list of DjangoObjectType "News" because it has no effect.
+  warnings.warn(
+[2021-08-16 09:11:31,396: INFO/ForkPoolWorker-1] Task koytola.account.emails._send_account_confirmation_email[009ee363-4135-4ea4-acec-7da20904e559] succeeded in 3.639282533998994s: None
+[2021-08-16 09:13:08,345: INFO/MainProcess] Received task: koytola.account.emails._send_account_confirmation_email[60e66119-22e3-4ec1-b56b-8d181b3e120e]  
+[2021-08-16 09:13:11,695: INFO/ForkPoolWorker-1] Task koytola.account.emails._send_account_confirmation_email[60e66119-22e3-4ec1-b56b-8d181b3e120e] succeeded in 3.3481199349989765s: None
+[2021-08-16 09:23:04,815: INFO/MainProcess] Received task: koytola.account.emails._send_account_confirmation_email[037a5822-05b4-4cac-8622-ee5db1121fc2]  
+[2021-08-16 09:23:08,123: INFO/ForkPoolWorker-1] Task koytola.account.emails._send_account_confirmation_email[037a5822-05b4-4cac-8622-ee5db1121fc2] succeeded in 3.3062862570004654s: None

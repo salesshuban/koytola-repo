@@ -1,0 +1,39 @@
+ID,sort order,company,certificate,type
+46,0,Boyraz ,static/users/other_Lsw21cn,KOSHER
+45,1,asdf,static/users/other_ooiSLxp,National Technical Assessment
+44,0,asdf,static/users/other_GZTCKLW,AD 200 CODE
+43,3,shreya,static/users/other_2q5oQTa,CD
+42,2,shreya,static/users/other_2cJIkof,BRC
+41,1,shreya,static/users/other_o0vode8,ADR
+40,0,shreya,static/users/other_aPxaZJK,AD 2000 CODE
+39,0,Gunbak,static/users/other_3ZoLryJ,"ISO 13485*, 14001*, 14064*, 17025*, 22000*, 27001*, 50001*"
+38,0,Feray Ahsap,static/users/other_1jBSrOG,"ISO 13485*, 14001*, 14064*, 17025*, 22000*, 27001*, 50001*"
+37,2,,static/users/other_QfUXt90,CLASS
+36,1,,static/users/other_5F8pKzJ,CEKAL
+35,2,Turkel ,static/users/other_SbQ2F2P,BRC
+34,1,Turkel ,static/users/other_P4vMQKQ,BRC
+33,0,Turkel ,static/users/other_Pn9sUg6,BRC
+32,0,,static/users/other_Uwx7SM8,CEKAL
+31,0,Tekinler,static/users/other_1sEOkDK,BRC
+30,5,,static/users/other_3pBx7uv,CEKAL
+29,2,,static/users/other_h0vOaTU,CMMI DEV
+28,4,,static/users/other_YJ1IBlq,CEKAL
+27,1,,static/users/other_gNRUXQC,CLASS
+26,0,,static/users/other_xbdANAK,CEKAL
+25,3,,static/users/other_k8B57PD,CMIM MARK
+23,2,,static/users/other_ppqB3Q0,CLASS
+22,1,,static/users/other_pkSUuW2,CMIM MARK
+21,0,Arbel,static/users/other_2bafatu,AD 2000 CODE
+19,1,Kimil Tekstil A.S.,static/users/other_lTXslLZ,GOST
+18,0,Kimil Tekstil A.S.,static/users/other_rrndTog,GOST
+16,0,,static/users/other_YXxcfB8,ECOCERT
+15,4,,static/users/other_q2bh69y,ATEX
+14,0,,static/users/other_xp2LcqG,CMIM MARK
+11,3,,static/users/other_NGVA1WH,CMMI DEV
+10,2,,static/users/other_sCxa6Xd,AS/EN/JISQ 9100
+9,1,,static/users/other_gZ6bsr3,BASEC
+8,0,,static/users/other_vfw61Lo,BASEC
+4,1,oo,static/users/other_5dTYSkQ,CE
+3,0,oo,static/users/other_z7apMF4,CTUV
+2,0,,static/users/other_DaErsKc,AD 2000 CODE
+1,0,ooo,static/users/other_qlWRaQM,BRC

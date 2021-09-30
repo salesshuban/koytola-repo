@@ -1,0 +1,709 @@
+{
+  "Company": [
+    {
+      "name": "NATURAL",
+      "image": "Natural-Ingredients.png"
+    },
+    {
+      "name": "VEGAN",
+      "image": "Vegan.png"
+    },
+    {
+      "name": "CRUELTY FREE",
+      "image": "Cruelty-Free.png"
+    },
+    {
+      "name": "CERTIFIED",
+      "image": "Certified.png"
+    },
+    {
+      "name": "SUSTAINABLE BUSINESS",
+      "image": "Sustainable-Business.png"
+    },
+    {
+      "name": "ORGANIC",
+      "image": "Organic.png"
+    },
+    {
+      "name": "WOMEN OWNED",
+      "image": "Women-Owned.png"
+    },
+    {
+      "name": "FAMILY OWNED",
+      "image": "Family-Owned.png"
+    },
+    {
+      "name": "LOW ENVIRONMENTAL IMPACT",
+      "image": "Low-Environmental-Impact.png"
+    },
+    {
+      "name": "PLASTIC FREE",
+      "image": "Plastic-Free.png"
+    },
+    {
+      "name": "ECO-FRIENDLY PACKAGING",
+      "image": "Eco-Friendly-Packaging.png"
+    },
+    {
+      "name": "SMALL BATCH",
+      "image": "Small-Batch.png"
+    },
+    {
+      "name": "ETHICALLY SOURCED",
+      "image": "Ethically-Sourced.png"
+    },
+    {
+      "name": "FAIR TRADE",
+      "image": "Fair-Trade.png"
+    },
+    {
+      "name": "SOCIALLY CONSCIOUS ",
+      "image": "Socially-Conscious.png"
+    },
+    {
+      "name": "HAND CRAFTED PRODUCT",
+      "image": "Handcrafted-Product.png"
+    },
+    {
+      "name": "MADE WITH LOVE",
+      "image": "Made-With-Love.png"
+    },
+    {
+      "name": "SUPPORTING FARMERS",
+      "image": "Support-Farmers.png"
+    },
+    {
+      "name": "BIODEGRADABLE PACKAGING",
+      "image": "Biodegradable-Packaging.png"
+    },
+    {
+      "name": "RESPONSIBLE MANUFACTURING",
+      "image": "Responsible-Manufacturing.png"
+    },
+    {
+      "name": "OPEN FOR DROPSHIPPING",
+      "image": "Open-For-Dropshipping.png"
+    },
+    {
+      "name": "SHIPS TO AMZ WAREHOUSE",
+      "image": "Ships-To-AMZ-Warehouse.png"
+    },
+    {
+      "name": "CUSTOMIZED PRODUCT",
+      "image": "Customized-Product.png"
+    },
+    {
+      "name": "OFFERS FULLFILLMENT OPTION",
+      "image": "Offers-Fulfillment-Option.png"
+    },
+    {
+      "name": "CARBON NEUTRAL",
+      "image": "Carbon-Neutral.png"
+    },
+    {
+      "name": "B2B ONLY",
+      "image": "B2B-Only.png"
+    },
+    {
+      "name": "B2C FRIENDLY",
+      "image": "B2C-Friendly.png"
+    },
+    {
+      "name": "HALAL",
+      "image": "Halal.png"
+    },
+    {
+      "name": "KOSHER",
+      "image": "Kosher.png"
+    }
+  ],
+  "Product": {
+    "1": {
+      "category": [
+        "Beauty & Personal Care",
+        "Baby",
+        "Chemicals",
+        "Health & Medical",
+        "Pet Products"
+      ],
+      "rosetter": [
+        {
+          "name": "NON GMO",
+          "image": "Non-GMO.png"
+        },
+        {
+          "name": "PARABEN FREE",
+          "image": "Paraben-Free.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        },
+        {
+          "name": "GLUTEN FREE",
+          "image": "Gluten-Free.png"
+        },
+        {
+          "name": "NON TOXIC",
+          "image": "Non-Toxic.png"
+        },
+        {
+          "name": "CRUELTY FREE",
+          "image": "Cruelty-Free.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        },
+        {
+          "name": "SUSTAINABLE",
+          "image": "Sustainable.png"
+        },
+        {
+          "name": "ORGANIC",
+          "image": "Organic.png"
+        },
+        {
+          "name": "ANTIOXIDANT",
+          "image": "Antioxidant.png"
+        },
+        {
+          "name": "ECO-FRIENDLY PACKAGING",
+          "image": "Eco-Friendly-Packaging.png"
+        },
+        {
+          "name": "PLASTIC FREE",
+          "image": "Plastic-Free.png"
+        },
+        {
+          "name": "LOW ENVIRONMENTAL IMPACT",
+          "image": "Low-Environmental-Impact.png"
+        },
+        {
+          "name": "ETHICALLY SOURCED",
+          "image": "Ethically-Sourced.png"
+        },
+        {
+          "name": "HAND CRAFTED PRODUCT",
+          "image": "Handcrafted-Product.png"
+        },
+        {
+          "name": "MADE WITH LOVE",
+          "image": "Made-With-Love.png"
+        },
+        {
+          "name": "ALCOHOL FREE",
+          "image": "Alcohol-Free.png"
+        },
+        {
+          "name": "BPA FREE",
+          "image": "BPA-Free.png"
+        },
+        {
+          "name": "SILICONE FREE",
+          "image": "Silicone-Free.png"
+        },
+        {
+          "name": "SLS FREE",
+          "image": "SLS-Free.png"
+        },
+        {
+          "name": "PHTHALATAES  FREE",
+          "image": "Phthalates-Free.png"
+        },
+        {
+          "name": "NO SYNTHETIC COLORS",
+          "image": "No-Synthetic-Colors.png"
+        },
+        {
+          "name": "CLEAN BEAUTY",
+          "image": "Clean-Beauty.png"
+        },
+        {
+          "name": "FRAGRANCE FREE",
+          "image": "Fragrance-Free.png"
+        },
+        {
+          "name": "NO MINERAL OIL",
+          "image": "No-Mineral-Oil.png"
+        },
+        {
+          "name": "ZERO PETROLEUM",
+          "image": "Zero-Petroleum.png"
+        },
+        {
+          "name": "SULFATE FREE",
+          "image": "Sulfate-Free.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "image": "Carbon-Neutral.png"
+        },
+        {
+          "name": "NATURAL INGREDIENTS",
+          "image": "Natural-Ingredients.png"
+        },
+        {
+          "name": "NITRATE FREE",
+          "image": "Nitrate-Free.png"
+        }
+      ]
+    },
+    "2": {
+      "category": [
+        "Agriculture",
+        "Food & Beverage",
+        "Pet Products"
+      ],
+      "rosetter": [
+        {
+          "name": "ORNAMENTAL PLANTS",
+          "image": "Ornamental-Plants.png"
+        },
+        {
+          "name": "NO FOOD COLORING",
+          "image": "No-Food-Coloring.png"
+        },
+        {
+          "name": "CHEMICALS FREE",
+          "image": "Chemicals-Free.png"
+        },
+        {
+          "name": "FARM GROWN",
+          "image": "Farm-Grown.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "NATURAL INGREDIENTS",
+          "image": "Natural-Ingredients.png"
+        },
+        {
+          "name": "NITRATE FREE",
+          "image": "Nitrate-Free.png"
+        },
+        {
+          "name": "HALAL",
+          "image": "Halal.png"
+        },
+        {
+          "name": "KOSHER",
+          "image": "Kosher.png"
+        },
+        {
+          "name": "LOW SODIUM",
+          "image": "Low-Sodium.png"
+        },
+        {
+          "name": "VEGETARIAN",
+          "image": "Vegetarian.png"
+        },
+        {
+          "name": "KETO FRIENDLY",
+          "image": "Keto-Friendly.png"
+        },
+        {
+          "name": "DAIRY FREE",
+          "image": "Dairy-Free.png"
+        },
+        {
+          "name": "PALEO FRIENDLY",
+          "image": "Paleo-Friendly.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        },
+        {
+          "name": "ORGANIC",
+          "image": "Organic.png"
+        },
+        {
+          "name": "ANTIOXIDANT",
+          "image": "Antioxidant.png"
+        },
+        {
+          "name": "GLUTEN FREE",
+          "image": "Gluten-Free.png"
+        },
+        {
+          "name": "ORNAMENTAL PLANTS",
+          "image": "Ornamental-Plants.png"
+        },
+        {
+          "name": "MADE WITH LOVE",
+          "image": "Made-With-Love.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        }
+      ]
+    },
+    "3": {
+      "category": [
+        "Apparel",
+        "Fashion Accessories",
+        "Home & Garden",
+        "Gifts & Crafts",
+        "Office & School Supplies",
+        "Shoes & Accessories",
+        "Furniture",
+        "Kitchen & Tabletop",
+        "Packaging & Printing",
+        "Luggage, Bags & Cases"
+      ],
+      "rosetter": [
+        {
+          "name": "ORGANIC LINEN",
+          "image": "Organic-Linen.png"
+        },
+        {
+          "name": "ORGANIC BAMBOO",
+          "image": "Organic-Bamboo.png"
+        },
+        {
+          "name": "RECYCLED FABRICS",
+          "image": "Recyled-Fabrics.png"
+        },
+        {
+          "name": "ECOLOGICAL DYES",
+          "image": "Ecological-Dyes.png"
+        },
+        {
+          "name": "HAND CRAFTED PRODUCT",
+          "image": "Handcrafted-Product.png"
+        },
+        {
+          "name": "ECO-FRIENDLY PACKAGING",
+          "image": "Eco-Friendly-Packaging.png"
+        },
+        {
+          "name": "SUSTAINABLE",
+          "image": "Sustainable.png"
+        },
+        {
+          "name": "MADE WITH LOVE",
+          "image": "Made-With-Love.png"
+        },
+        {
+          "name": "ETHICALLY SOURCED",
+          "image": "Ethically-Sourced.png"
+        },
+        {
+          "name": "HAND CRAFTED PRODUCT",
+          "image": "Handcrafted-Product.png"
+        },
+        {
+          "name": "PLASTIC FREE",
+          "image": "Plastic-Free.png"
+        },
+        {
+          "name": "LOW ENVIRONMENTAL IMPACT",
+          "image": "Low-Environmental-Impact.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        },
+        {
+          "name": "ORGANIC",
+          "image": "Organic.png"
+        }
+      ]
+    },
+    "4": {
+      "category": [
+        "Consumer Electronics",
+        "Electrical Equipment & Supplies",
+        "Electronic Components & Supplies",
+        "Energy",
+        "Garden Supplies",
+        "Lights & Lighting",
+        "Sports & Entertainment",
+        "Machinery",
+        "Vehicles & Accessories",
+        "Service Equipment",
+        "Security & Protection",
+        "Construction & Real Estate"
+      ],
+      "rosetter": [
+        {
+          "name": "HAND CRAFTED PRODUCT",
+          "image": "Handcrafted-Product.png"
+        },
+        {
+          "name": "ECO-FRIENDLY PACKAGING",
+          "image": "Eco-Friendly-Packaging.png"
+        },
+        {
+          "name": "SUSTAINABLE",
+          "image": "Sustainable.png"
+        },
+        {
+          "name": "MADE WITH LOVE",
+          "image": "Made-With-Love.png"
+        },
+        {
+          "name": "ETHICALLY SOURCED",
+          "image": "Ethically-Sourced.png"
+        },
+        {
+          "name": "LOW ENVIRONMENTAL IMPACT",
+          "image": "Low-Environmental-Impact.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "image": "Carbon-Neutral.png"
+        },
+        {
+          "name": "LOW ENVIRONMENTAL IMPACT",
+          "image": "Low-Environmental-Impact.png"
+        },
+        {
+          "name": "ORGANIC BAMBOO",
+          "image": "Organic-Bamboo.png"
+        },
+        {
+          "name": "NON TOXIC",
+          "image": "Non-Toxic.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        },
+        {
+          "name": "SUSTAINABLE",
+          "image": "Sustainable.png"
+        },
+        {
+          "name": "ORGANIC",
+          "image": "Organic.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        }
+      ]
+    },
+    "0": {
+      "category": null,
+      "rosetter": [
+        {
+          "name": "NON GMO",
+          "image": "Non-GMO.png"
+        },
+        {
+          "name": "PARABEN FREE",
+          "image": "Paraben-Free.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        },
+        {
+          "name": "GLUTEN FREE",
+          "image": "Gluten-Free.png"
+        },
+        {
+          "name": "NON TOXIC",
+          "image": "Non-Toxic.png"
+        },
+        {
+          "name": "CRUELTY FREE",
+          "image": "Cruelty-Free.png"
+        },
+        {
+          "name": "CERTIFIED",
+          "image": "Certified.png"
+        },
+        {
+          "name": "SUSTAINABLE",
+          "image": "Sustainable.png"
+        },
+        {
+          "name": "ORGANIC",
+          "image": "Organic.png"
+        },
+        {
+          "name": "ANTIOXIDANT",
+          "image": "Antioxidant.png"
+        },
+        {
+          "name": "ECO-FRIENDLY PACKAGING",
+          "image": "Eco-Friendly-Packaging.png"
+        },
+        {
+          "name": "PLASTIC FREE",
+          "image": "Plastic-Free.png"
+        },
+        {
+          "name": "LOW ENVIRONMENTAL IMPACT",
+          "image": "Low-Environmental-Impact.png"
+        },
+        {
+          "name": "ETHICALLY SOURCED",
+          "image": "Ethically-Sourced.png"
+        },
+        {
+          "name": "HAND CRAFTED PRODUCT",
+          "image": "Handcrafted-Product.png"
+        },
+        {
+          "name": "MADE WITH LOVE",
+          "image": "Made-With-Love.png"
+        },
+        {
+          "name": "ALCOHOL FREE",
+          "image": "Alcohol-Free.png"
+        },
+        {
+          "name": "BPA FREE",
+          "image": "BPA-Free.png"
+        },
+        {
+          "name": "SILICONE FREE",
+          "image": "Silicone-Free.png"
+        },
+        {
+          "name": "SLS FREE",
+          "image": "SLS-Free.png"
+        },
+        {
+          "name": "NO SYNTHETIC COLORS",
+          "image": "No-Synthetic-Colors.png"
+        },
+        {
+          "name": "CLEAN BEAUTY",
+          "image": "Clean-Beauty.png"
+        },
+        {
+          "name": "FRAGRANCE FREE",
+          "image": "Fragrance-Free.png"
+        },
+        {
+          "name": "NO MINERAL OIL",
+          "image": "No-Mineral-Oil.png"
+        },
+        {
+          "name": "ZERO PETROLEUM",
+          "image": "Zero-Petroleum.png"
+        },
+        {
+          "name": "SLS FREE",
+          "image": "SLS-Free.png"
+        },
+        {
+          "name": "SULFATE FREE",
+          "image": "Sulfate-Free.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "CARBON NEUTRAL",
+          "image": "Carbon-Neutral.png"
+        },
+        {
+          "name": "ORGANIC LINEN",
+          "image": "Organic-Linen2.png"
+        },
+        {
+          "name": "ORGANIC BAMBOO",
+          "image": "Organic-Bamboo.png"
+        },
+        {
+          "name": "RECYCLED FABRICS",
+          "image": "Recyled-Fabrics.png"
+        },
+        {
+          "name": "ECOLOGICAL DYES",
+          "image": "Ecological-Dyes.png"
+        },
+        {
+          "name": "NO FOOD COLORING",
+          "image": "No-Food-Coloring.png"
+        },
+        {
+          "name": "CHEMICALS FREE",
+          "image": "Chemicals-Free.png"
+        },
+        {
+          "name": "FARM GROWN",
+          "image": "Farm-Grown.png"
+        },
+        {
+          "name": "PESTICIDES FREE",
+          "image": "Pesticides-Free.png"
+        },
+        {
+          "name": "NATURAL INGREDIENTS",
+          "image": "Natural-Ingredients.png"
+        },
+        {
+          "name": "NITRATE FREE",
+          "image": "Nitrate-Free.png"
+        },
+        {
+          "name": "HALAL",
+          "image": "Halal.png"
+        },
+        {
+          "name": "KOSHER",
+          "image": "Kosher.png"
+        },
+        {
+          "name": "KETO FRIENDLY",
+          "image": "Keto-Friendly.png"
+        },
+        {
+          "name": "LOW SODIUM",
+          "image": "Low-Sodium.png"
+        },
+        {
+          "name": "VEGETARIAN",
+          "image": "Vegetarian.png"
+        },
+        {
+          "name": "KETO FRIENDLY",
+          "image": "Keto-Friendly.png"
+        },
+        {
+          "name": "DAIRY FREE",
+          "image": "Dairy-Free.png"
+        },
+        {
+          "name": "PALEO FRIENDLY",
+          "image": "Paleo-Friendly.png"
+        },
+        {
+          "name": "VEGAN",
+          "image": "Vegan.png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{% load i18n %}
+
+
+{% block subject %}
+  {% blocktrans trimmed context "Order confirmation e-mail subject" %}
+    We received your request
+  {% endblocktrans %}
+{% endblock %}
+
+{% block plain %}
+{% include 'templated_email/shared/_header.email' %}
+
+{% trans "Order summary" context "Order confirmation e-mail table header" %}:
+
+{% include 'templated_email/shared/_footer.email' %}
+{% endblock %}
+
+
+{% block html %}
+{% include 'templated_email/compiled/buyers.html' %}
+{% endblock %}

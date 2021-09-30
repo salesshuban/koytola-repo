@@ -1,0 +1,754 @@
+ID,address name,first name,last name,company name,street address 1,street address 2,city,city area,postal code,country,country area,phone
+1,,Patricia,Dean,,2996 Wallace Square,,Stevenfurt,,58575,US,ND,
+2,,Monica,Blankenship,,4440 Cobb Vista Suite 991,,Lake Nicholasfurt,,81323,US,CO,
+3,,Jeremy,Miller,,161 Cruz Lane Apt. 960,,Port Angela,,38265,US,TN,
+4,,Benjamin,Jordan,,193 Amanda Shoal Apt. 149,,North Crystal,,20331,US,MD,
+5,,Frank,Ball,,282 Payne Rue,,New Richardfort,,19757,US,DE,
+6,,Valerie,Williams,,005 Smith Union Apt. 369,,Lucasmouth,,55941,US,MN,
+7,,Mark,Johnson,,0344 George Camp Suite 241,,East Elizabethside,,80296,US,CO,
+8,,Timothy,Glenn,,19831 Flores Forges,,Stanleyville,,99643,US,AK,
+9,,Julie,Stephens,,234 Cheryl Mission,,West Adam,,25627,US,WV,
+10,,Deborah,Graves,,62777 Christopher Haven Apt. 076,,Rachelland,,82050,US,WY,
+11,,Debbie,Lynch,,33782 Michelle Union,,West Haroldton,,98768,US,WA,
+12,,Jeanette,Brewer,,0568 Vargas Lights Apt. 944,,East Charlesshire,,96791,US,HI,
+13,,Linda,Palmer,,12697 Logan Extensions,,South Jamesburgh,,50744,US,IA,
+14,,Tammy,Barnes,,24973 Pacheco Brook Suite 086,,Jessicamouth,,37590,US,TN,
+15,,Travis,Ho,,831 Gavin Drive,,Mirandaport,,85777,US,AZ,
+16,,Michael,Randall,,6467 Bates Islands Suite 968,,West Laura,,04969,US,ME,
+17,,Kimberly,Graham,,942 Parks Lane Apt. 257,,New Amyport,,02822,US,RI,
+18,,Melissa,Miller,,60084 Rachel Ports Suite 306,,East Brenda,,17048,US,PA,
+19,,Mallory,Esparza,,7992 Nunez Course,,Popeside,,84097,US,UT,
+20,,Jessica,Jordan,,6858 Ho Cliff Suite 846,,Port Aaronshire,,95034,US,CA,
+21,,Alicia,Davis,,30122 Dwayne Mission,,Jacobshaven,,55295,US,MN,
+22,,Johnathan,Mccoy,,2324 Stein Vista,,South Brendamouth,,71161,US,LA,
+23,,Jennifer,Miller,,57710 Morris Knoll,,Mcclainside,,36002,US,AL,
+24,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+25,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+26,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+27,Office,Arbel Bakliyat,,Arbel Bakliyat Hububat,,,,,,TR,,
+28,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A,,Ankara,,,TR,Yenimahalle,+903122333333
+29,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+30,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,Uluderbent Alasehir,,Manisa,,45600,TR,,+902366733064
+31,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+33,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+34,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+35,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+36,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+37,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+38,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+39,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+40,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+41,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+42,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+43,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+45,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+46,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+47,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+48,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+49,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+50,,Lauren,Martinez,,606 Higgins Parkways,,South Joshua,,54787,US,WI,
+51,,Kevin,Berger,,731 Gregory Pine,,Port Ianfurt,,02857,US,RI,
+52,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+53,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+54,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+55,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+56,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A,,Ankara,,,TR,Yenimahalle,+903122333333
+57,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+58,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600",,Manisa,,,TR,Alasehir,+902366733064
+59,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+60,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+61,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+62,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+63,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+64,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+65,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+66,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+67,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+68,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+69,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+70,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+71,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+72,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18,,Istanbul,,,TR,Tuzla,+902163066660
+73,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+74,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+75,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+76,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+77,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+78,,David,Jones,,44452 Wendy Forge Apt. 714,,Estradamouth,,03139,US,NH,
+79,,Bobby,Miller,,274 Heidi Tunnel,,Port Ericafurt,,96752,US,HI,
+80,,Mark,Patterson,,78348 Kathleen Point Apt. 862,,Lake Rachelchester,,95979,US,CA,
+81,,Krystal,Marshall,,837 Hughes Skyway Suite 591,,East Victor,,63139,US,MO,
+82,,Jessica,Lopez,,168 Eric Turnpike Apt. 887,,North Jordanmouth,,55984,US,MN,
+83,,Felicia,Powell,,683 Katherine Vista,,East Vanessamouth,,30877,US,GA,
+84,,James,Lucas,,803 Barton Lodge Apt. 072,,Port Tina,,35792,US,AL,
+85,,Angela,Edwards,,9030 Graham Curve,,West Brianton,,17957,US,PA,
+86,,Nancy,Cole,,63177 Aaron Extension,,North Adamtown,,85249,US,AZ,
+87,,Valerie,Lopez,,221 Villegas Crossing,,Taylorbury,,48405,US,MI,
+88,,Mark,Brewer,,119 Turner Manor,,South Michaelmouth,,73127,US,OK,
+89,,James,Oneill,,87824 Heather Rapids,,Doughertyton,,29021,US,SC,
+90,,Danny,Sanchez,,50465 Chris Club,,Rodriguezmouth,,83286,US,ID,
+91,,Chelsea,Smith,,8198 James Path Suite 372,,Port Amandashire,,07267,US,NJ,
+92,,Jessica,Rogers,,59322 Gomez Coves,,Williamland,,63072,US,MO,
+93,,Matthew,Hawkins,,4298 Dixon Islands Suite 090,,East Josephborough,,39381,US,MS,
+94,,Emily,Nelson,,716 Smith Manor Apt. 929,,Michaelborough,,40011,US,KY,
+95,,Amanda,Jones,,2780 Ramos Mission,,Boydmouth,,99730,US,AK,
+96,,Carol,Lewis,,18947 Stacy Motorway,,Port John,,05433,US,VT,
+97,,William,Ortiz,,8866 Castro Avenue,,New Brianastad,,08961,US,NJ,
+98,,Scott,Anderson,,502 Gregory Wells,,Robertsside,,46129,US,IN,
+99,,Timothy,Yates,,43305 Peter Mews Suite 805,,Lake Wendy,,73301,US,TX,
+100,,Thomas,Barry,,44401 Matthew Ports,,Marioshire,,68112,US,NE,
+101,,Deborah,Barnett,,54203 Cantu Meadow Apt. 216,,West Pamela,,20041,US,VA,
+102,,James,Sloan,,246 Jon Meadow,,Brownville,,47367,US,IN,
+103,,Donna,Delgado,,104 Morgan Dam,,Port Walterside,,04528,US,ME,
+104,,Michael,Jones,,69224 Herring Parkways,,Lake John,,91535,US,CA,
+105,,Melanie,Norton,,5669 Jones Turnpike Suite 574,,West Cameron,,20331,US,MD,
+106,,Kelly,Anderson,,35899 Powell Loaf Suite 384,,East Amandaton,,53326,US,WI,
+107,,Amy,Garza,,6365 Cabrera Crescent Apt. 084,,Greenestad,,19756,US,DE,
+108,,Lindsey,Mooney,,339 Brooks Manors Suite 009,,Robertside,,50608,US,IA,
+109,,Dave,Leblanc,,349 Ross Square,,New Jordan,,29779,US,SC,
+110,,Rhonda,Anderson,,8094 Johnson Streets Suite 358,,South Christinachester,,56761,US,MN,
+111,,Jessica,Jensen,,1912 Harris Vista Suite 167,,North Kayla,,20331,US,MD,
+112,,Debra,Nelson,,853 Felicia Pines Apt. 786,,Cooperfort,,19491,US,PA,
+113,,John,Smith,,336 Heather Squares Suite 293,,North Theresa,,03853,US,NH,
+114,,Michael,Turner,,586 Gomez Harbors,,Middletonhaven,,19488,US,PA,
+115,,Charles,Foster,,647 Arthur Drives Suite 024,,West David,,31221,US,GA,
+116,,Paul,Bryant,,63356 Bruce Oval Suite 038,,Meganberg,,15416,US,PA,
+117,,Michael,Coleman,,31011 Martinez Avenue,,Kylechester,,19931,US,DE,
+118,,Regina,Martin,,7357 Andrew Common Apt. 975,,Clarkborough,,20005,US,DC,
+119,,Regina,Martin,,7357 Andrew Common Apt. 975,,Clarkborough,,20005,US,DC,
+120,,Michael,Baker,,3885 Mccoy Glens Suite 054,,Ruizville,,26231,US,WV,
+121,,Joseph,Andersen,,7956 Abigail Groves,,Lopezhaven,,10796,US,NY,
+122,,Krystal,Wise,,3041 Olivia Island,,Scottchester,,51081,US,IA,
+123,,William,Davis,,32561 George Underpass,,Lake Herbert,,57462,US,SD,
+124,,Ryan,Beck,,9018 Diana Gateway Suite 379,,Derekport,,96799,US,HI,
+125,,Holly,Baird,,00344 Jacobs Inlet,,Mejialand,,06011,US,CT,
+126,,Frank,Lucas,,0518 Cindy Forest,,South Alexview,,34455,US,FL,
+127,,Gabrielle,Perez,,548 Hale Glens Suite 452,,Nelsonton,,73301,US,TX,
+128,,Paul,Howard,,4567 Stephen Junction,,East Tara,,20008,US,DC,
+129,,Charles,Walker,,03334 Barr Fields Apt. 911,,Martinezton,,03428,US,NH,
+130,,Thomas,Wiley,,277 Kyle Forks,,North Timothy,,07570,US,NJ,
+131,,Tom,Campos,,2186 Reyes Junction,,New Christophermouth,,73301,US,TX,
+132,,Pamela,Guzman,,3338 Harper Village,,East Amy,,63152,US,MO,
+133,,Helen,Castillo,,2712 Andrew Mountains,,Christineport,,15450,US,PA,
+134,,Shelley,Miller,,7276 Paul Grove Apt. 008,,Annachester,,56420,US,MN,
+135,,James,Ibarra,,55921 Deanna Point Suite 516,,North Jerry,,85115,US,AZ,
+136,,Virginia,Moore,,3655 Farmer Plaza,,East Jason,,73301,US,TX,
+137,,Vincent,Allison,,0930 Cameron Parkways,,West Troy,,73301,US,TX,
+138,,Jesus,Peterson,,79203 Olson Flats Suite 244,,Mejiamouth,,20022,US,DC,
+139,,John,Hill,,01791 Best Track Suite 718,,South Teresa,,57458,US,SD,
+140,,Cody,Richardson,,340 Angela Via,,West Loriside,,06356,US,CT,
+141,,Antonio,Brewer,,7513 Stacey Oval Apt. 728,,Paulfort,,96785,US,HI,
+142,,Megan,Ward,,82188 Avila Drive Suite 792,,New Michael,,73112,US,OK,
+143,,Rodney,Bishop,,94057 Sara Bridge Apt. 539,,Port Seanburgh,,57746,US,SD,
+144,,Patrick,Mendoza,,358 Ward Point,,East Robertberg,,68028,US,NE,
+145,,Richard,Callahan,,6006 Tyler Courts Suite 628,,West Alyssafort,,20040,US,VA,
+146,,Shelly,Melton,,036 Laura Fields Apt. 934,,Susanburgh,,59086,US,MT,
+147,,Ryan,Berger,,96837 Erin Well,,East Jamesview,,88977,US,NV,
+148,,Dustin,Davis,,6552 Scott Fall Suite 803,,Port Haleystad,,38513,US,TN,
+149,,Kelli,Oneill,,0208 Green Highway,,Shortland,,89540,US,NV,
+150,,Michelle,Foley,,0222 Isabella Fort,,Carolineville,,99719,US,AK,
+151,,Bonnie,Guzman,,426 Price Haven Suite 863,,Daychester,,89497,US,NV,
+152,,Michael,Jones,,65794 Christina Groves,,West Jennifer,,20011,US,DC,
+153,,Jesse,Harris,,117 Dylan Point Apt. 947,,Port Ashley,,82091,US,WY,
+154,,Tammy,Vasquez,,894 Murphy Park Apt. 068,,North Derek,,41714,US,KY,
+155,,Darrell,Nichols,,7017 Hall Valleys,,Brendaview,,38730,US,MS,
+156,,Amanda,Hartman,,04467 Harold Port Suite 282,,East Dawn,,95160,US,CA,
+157,,Bernard,Gordon,,44624 Dyer Shoals,,Jimenezhaven,,20331,US,MD,
+158,,Jennifer,Ray,,6567 Manning Roads,,South Amber,,08060,US,NJ,
+159,,Jeremiah,Franco,,46490 King Radial Suite 242,,North Carrie,,01004,US,MA,
+160,,Susan,Ortega,,780 Smith Prairie,,Montgomeryberg,,32825,US,FL,
+161,,Kathy,Barnes,,05213 Holly Glen Apt. 084,,Port Michaelland,,97550,US,OR,
+162,,Debra,Bray,,98404 Torres Centers,,Port Laura,,57500,US,SD,
+163,,Jesse,Schmidt,,1404 Cruz Key,,Kevinborough,,41294,US,KY,
+164,,Sean,Moore,,6235 Parker Isle Suite 540,,West Kennethhaven,,29896,US,SC,
+165,,Melissa,Nelson,,6813 Shari Way,,Paulside,,98485,US,WA,
+166,,Cory,Stevenson,,404 Maldonado Crescent,,East Stephanie,,58468,US,ND,
+167,,James,Jennings,,82787 Neal Trace Apt. 108,,Crystalview,,71138,US,LA,
+168,,Scott,Olson,,7370 Santana Haven Apt. 397,,South James,,20331,US,MD,
+169,,James,Jones,,3183 Connie Shore Apt. 910,,West Michaelfurt,,02102,US,MA,
+170,,John,Goodman,,536 Jennifer Summit Suite 253,,West Charleneland,,99839,US,AK,
+171,,John,Phelps,,6733 Mcbride Fords,,Courtneyton,,17909,US,PA,
+172,,Megan,Collins,,82417 Bishop Points Suite 472,,Lake Waynefurt,,02375,US,MA,
+173,,Andrew,Gonzalez,,376 George Plaza,,Port David,,35411,US,AL,
+174,,Matthew,Ball,,407 John Views,,Biancatown,,65031,US,MO,
+175,,Shelly,Huber,,3084 Lisa Field,,New Jilliantown,,68001,US,NE,
+176,,John,Houston,,67061 Espinoza Crest,,Tyroneport,,03154,US,NH,
+177,,Andre,Williams,,266 Keith Motorway Apt. 667,,Huffmanmouth,,97229,US,OR,
+178,,Gina,White,,400 Carolyn Street Suite 476,,New Raymondhaven,,87857,US,NM,
+179,,Ralph,Graham,,616 Amy Dam,,East Stephenberg,,97127,US,OR,
+180,,Amanda,Harmon,,647 Payne Cove Apt. 618,,Lake Jack,,98178,US,WA,
+181,,Kathleen,Hill,,09054 Davis Corners,,Collinsfort,,82172,US,WY,
+182,,Regina,Bell,,936 Kelly Stravenue,,Wilsonshire,,43909,US,OH,
+183,,Sean,Pena,,669 Mary Squares,,New Bradleyland,,57179,US,SD,
+184,,Amber,Thompson,,27318 Griffith Plains,,Lauraside,,81543,US,CO,
+185,,Brandon,Baker,,159 Vanessa Corners,,North Amandachester,,55817,US,MN,
+186,,Edgar,Smith,,30073 Brandon Ville Suite 641,,North Robert,,88327,US,NM,
+187,,Larry,Smith,,781 Ronald Locks,,Jacobshire,,70377,US,LA,
+188,,Tyler,Mcconnell,,692 Jason Locks Apt. 914,,Robinmouth,,58672,US,ND,
+189,,Christopher,Bates,,241 Matthew Junctions Suite 249,,Desireeborough,,48610,US,MI,
+190,,Tina,Osborn,,287 Jermaine Avenue Suite 917,,Griffithfort,,41428,US,KY,
+191,,Scott,Larsen,,7360 Elizabeth Well Suite 617,,Port Kelly,,72872,US,AR,
+192,,Kimberly,Morales,,030 Steven Valley,,Zavalamouth,,49721,US,MI,
+193,,Anthony,Hart,,311 Bradley Garden Apt. 851,,Whiteberg,,98855,US,WA,
+194,,Anthony,Hart,,311 Bradley Garden Apt. 851,,Whiteberg,,98855,US,WA,
+195,,Emily,Burns,,1593 Foster Mills Suite 503,,New Joseph,,57467,US,SD,
+196,,Lisa,Henderson,,781 Kimberly Plaza,,Gilbertville,,27260,US,NC,
+197,,Brittany,Wang,,1533 Jorge Run Apt. 934,,Lake Emmaborough,,58228,US,ND,
+198,,Christine,Johnson,,45050 Jon Avenue Apt. 304,,Kellimouth,,37117,US,TN,
+199,,Jeffery,Hayes,,55785 Hernandez Shores Suite 596,,South Emily,,20007,US,DC,
+200,,Jessica,Barnett,,748 Molly River,,Kevinport,,20006,US,DC,
+201,,Megan,Brown,,678 Morris Villages Suite 184,,West Elizabethtown,,65739,US,MO,
+202,,Michael,Lewis,,0681 Eric Ranch,,Ortizville,,80984,US,CO,
+203,,Richard,Wilson,,3934 Mayo Pines,,Johnshire,,71084,US,LA,
+204,,Christian,Edwards,,902 Veronica View Suite 575,,East Crystal,,04611,US,ME,
+205,,Laura,Butler,,109 Christine Manors Suite 912,,Port Dale,,93810,US,CA,
+206,,William,Oconnell,,99969 Victoria Walks Apt. 042,,Brandifort,,70573,US,LA,
+207,,Michael,Cunningham,,70822 Spencer Harbors,,Brownburgh,,20039,US,DC,
+208,,Michelle,Tyler,,977 Williams Village,,Lake Frankmouth,,84151,US,UT,
+209,,Mark,Beltran,,0456 Jeffrey Greens,,Lake Bradleystad,,20037,US,DC,
+210,,Angela,Manning,,72752 Christian Causeway,,West Chad,,38731,US,MS,
+211,,Jacob,Nunez,,16189 Hannah Hollow Suite 419,,Williamview,,43657,US,OH,
+212,,Kimberly,Brown,,74083 Gomez View,,North Henryside,,43400,US,OH,
+213,,Alan,Cruz,,076 Adams Streets Suite 378,,North James,,97808,US,OR,
+214,,Tabitha,Burch,,12858 Bauer Fall Suite 551,,Rachelton,,70114,US,LA,
+215,,Zachary,Johnson,,616 Dominguez Hill,,South Brianhaven,,72830,US,AR,
+216,,Victoria,Hensley,,7934 David Creek,,Timothyville,,43794,US,OH,
+217,,Danny,Shepherd,,60937 Ryan Corners Apt. 701,,North Richard,,89815,US,NV,
+218,,Daniel,Walker,,1238 Leslie Mission,,Taylortown,,43426,US,OH,
+219,,Harold,Doyle,,019 Craig Falls Suite 863,,North Gabriellaborough,,73085,US,OK,
+220,,Jessica,Campbell,,2799 Hannah Turnpike,,Marshallmouth,,59833,US,MT,
+221,,Stephanie,Stewart,,09868 Kimberly Dale,,Amystad,,71172,US,LA,
+222,,Melissa,Thomas,,390 Freeman Dale,,West Jennifer,,19765,US,DE,
+223,,Caitlin,Bowman,,2301 Wanda Stravenue Apt. 590,,Leroyland,,05313,US,VT,
+224,,Michael,Sullivan,,5091 Melissa Spurs Suite 742,,North Henryfurt,,96709,US,HI,
+225,,Theresa,Lee,,26933 Chloe Drive,,South Michaelville,,85409,US,AZ,
+226,,Thomas,Alvarado,,38492 Jones Mill,,Anneville,,89761,US,NV,
+227,,Helen,Smith,,14780 Key Forest Suite 553,,North Jessica,,05109,US,VT,
+228,,Steven,Thornton,,75232 Martha Loaf,,Jodyfurt,,64038,US,MO,
+229,,Amanda,Dougherty,,185 Kathleen Crest Suite 605,,Lake Ericchester,,02814,US,RI,
+230,,Deanna,Sandoval,,250 Richardson Fort Apt. 555,,Dylanhaven,,07674,US,NJ,
+231,,Richard,Alexander,,327 Jennifer Islands Apt. 523,,East Michelle,,17043,US,PA,
+232,,Leslie,Santana,,958 Gardner Square,,East Jennychester,,60549,US,IL,
+233,,Aaron,Parsons,,958 Sheena Forges Apt. 437,,Munozberg,,13731,US,NY,
+234,,Dana,Rhodes,,12618 Jennifer Heights Suite 655,,Mendozaport,,83560,US,ID,
+235,,Stephanie,Knapp,,09412 Brittany Place,,Port Kellyland,,73301,US,TX,
+236,,Walter,Gentry,,748 Adam Heights,,Ravenstad,,65195,US,MO,
+237,,Erin,Cross,,135 Keith Trail,,Kimberlymouth,,82376,US,WY,
+238,,David,Hudson,,069 Amanda Fords Suite 397,,Rhondatown,,82853,US,WY,
+239,,Taylor,Atkinson,,7567 Spencer Views Suite 027,,Port Sandrafurt,,20041,US,VA,
+240,,Donna,Reyes,,4375 Evans Groves Suite 765,,Harrisonside,,84406,US,UT,
+241,,Stephen,Glenn,,318 Brett Branch Suite 324,,New Kevinfort,,05219,US,VT,
+242,,Roy,Kelly,,3476 Paul Alley Apt. 360,,East Carloschester,,58253,US,ND,
+243,,Joshua,Johnson,,670 Julie Ports,,Port Angelaside,,58556,US,ND,
+244,,Marcus,Smith,,922 Adam Plaza,,South Charles,,51380,US,IA,
+245,,Beverly,Duran,,32166 Rebecca Crest Suite 950,,Port Alexanderville,,68025,US,NE,
+246,,Anna,Carlson,,2211 Wyatt Curve Suite 947,,Garciamouth,,81596,US,CO,
+247,,Erin,Johnson,,33297 Courtney Course Apt. 044,,Billyview,,87080,US,NM,
+248,,Julie,Mason,,998 Glen Crossing,,West Jade,,13729,US,NY,
+249,,Michelle,Wall,,74921 Brianna View Apt. 896,,Briannaburgh,,97004,US,OR,
+250,,James,Russell,,46454 Stephanie Parkway Apt. 488,,New Kyle,,54696,US,WI,
+251,,Leah,Haley,,214 Smith Shores,,West Charlotte,,99858,US,AK,
+252,,Michael,Bullock,,36665 Sheryl Circle,,Russellfort,,61085,US,IL,
+253,,Martin,Lyons,,91235 Joseph Mission,,North Mark,,35499,US,AL,
+254,,Stephanie,Cline,,857 Morgan Extensions Apt. 669,,Garciaborough,,82543,US,WY,
+255,,Timothy,Lee,,900 Garner Mission,,Port Jesse,,05059,US,VT,
+256,,Tiffany,Lara,,3204 Nicholas Heights,,New Christine,,47102,US,IN,
+257,,Kevin,Richardson,,2830 Schneider Mount Apt. 383,,Petershire,,83468,US,ID,
+258,,Joshua,Hampton,,9551 Ramirez Corner Suite 209,,New Ashleyside,,20008,US,DC,
+259,,Ann,Kerr,,34778 Blackburn Locks Apt. 263,,Bethview,,89858,US,NV,
+260,,Jamie,Campbell,,471 Melanie Throughway,,Leeville,,97379,US,OR,
+261,,Daniel,Martin,,8486 Smith Mission Apt. 733,,Lake Dennis,,40257,US,KY,
+262,,Eric,Long,,05907 Palmer Spring,,Ochoaville,,48573,US,MI,
+263,,Stephen,Jackson,,203 Walsh Pines,,Laurenport,,65158,US,MO,
+264,,Stacy,Jacobs,,72611 Lewis Wells Suite 451,,North Michealberg,,35423,US,AL,
+265,,Terry,Russell,,53001 Mark Run Suite 019,,Patelland,,59924,US,MT,
+266,,Christopher,Rodriguez,,43132 John Flat,,Robertston,,08693,US,NJ,
+267,,Melissa,Gutierrez,,87781 Roberts Vista,,Rileymouth,,49586,US,MI,
+268,,Keith,Andrade,,847 Sharon Falls Apt. 783,,West Helen,,15059,US,PA,
+269,,Maureen,Anderson,,20653 Welch Islands,,Hendersonview,,01251,US,MA,
+270,,Adriana,Hamilton,,2397 Murray Springs,,Tranport,,83495,US,ID,
+271,,Jessica,Buck,,9761 Kent Centers,,Wendyville,,82161,US,WY,
+272,,Kendra,Mora,,236 Nelson Place,,Kimberlyland,,67167,US,KS,
+273,,Susan,Mitchell,,972 Rodriguez Stream,,Port Keithport,,59233,US,MT,
+274,,Linda,Cook,,76941 Myers Court Apt. 469,,Rachelhaven,,56026,US,MN,
+275,,Jennifer,Jones,,9759 Christopher Neck Suite 911,,South Feliciaside,,51014,US,IA,
+276,,Diamond,Butler,,13412 Flores Ranch Apt. 278,,West Connorport,,05471,US,VT,
+277,test,test,test,,,,,,,GB,,
+278,test mutation,first name,last name,,test line 1,,,,,US,,
+279,test mutation,first name,last name,,test line 1,,,,,US,,
+280,Office,first name,last name,,test line 1,,JAIPUR,,302033,IN,Rajasthan,
+281,Office,first name,last name,,test line 1,,JAIPUR,,302033,IN,Rajasthan,+919087654321
+282,Office,first name,last name,,test line 1,,JAIPUR,,302033,IN,Rajasthan,+919087654321
+283,Office,first name,last name,,test line 1,,JAIPUR,,302033,IN,Rajasthan,+919087654321
+284,Office,first name,last name,,test line 1,,JAIPUR,,302033,IN,Rajasthan,+919087654321
+285,,Zoe,Hogan,,4493 Wells Row Apt. 719,,Port Elizabeth,,20041,US,VA,
+286,,Christopher,Thomas,,321 Michael Fields Apt. 876,,Mikaylaborough,,68091,US,NE,
+287,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+288,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+289,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+290,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+291,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A,,Ankara,,,TR,Yenimahalle,+903122333333
+292,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+293,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600",,Manisa,,,TR,Alasehir,+902366733064
+294,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+295,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+296,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+297,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+298,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+299,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+300,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+301,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+302,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+303,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+304,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+305,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+306,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+307,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18,,Istanbul,,,TR,Tuzla,+902163066660
+308,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+309,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+310,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+311,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+312,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+313,,Tabitha,Baker,,3174 Smith Landing,,East Richardhaven,,29646,US,SC,
+314,,Lonnie,Drake,,36886 Gonzalez Avenue Apt. 480,,Shellyburgh,,89696,US,NV,
+315,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+316,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+317,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+318,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+322,,,,,123/274,Mansarovar,Jaipur,,302020,IN,Rajasthan,
+323,,,,test,Kishanpole Bazar Road,Chandpol,JAIPUR,,302001,IN,Rajasthan,
+324,,,,,organize sanayi Bölgesi 9. cadde,No:44,Eskişehir,,26110,TR,,
+325,,,,,Jawahar Circle,Jaipur Golden Hospital Road,Jaipur,,110085,IN,Rajasthan,
+328,,,,,123/274,Mansarovar,JAIPUR,,302020,IN,Rajasthan,+917458745214
+329,,,,,Kultur mah no 12 camlibel,,Mersin,,33010,TR,,
+330,,,,,,Sabzazar,LAHORE,,,PK,,+905365478965
+331,,,,,123/271,Mansarovar,JAIPUR,,302020,IN,Rajasthan,
+332,,,,,İstanbul Üniversitesi Cerrahpaşa Avcılar Kampüsü,Üniversite,İSTANBUL,,34320,TR,,+905365478965
+333,,,,,3611 Faris Dr,,LOS ANGELES,,90034,US,CA,
+334,,,,,"mansrover , jaipur",Rohini,DELHI,,110085,IN,Delhi,
+335,,,,,Beylice Mah. Beylice Sk.No:478 Tarsus / Mersin,Beylice Sk.No:478,MERSIN,,33402,TR,,
+337,,,,,dghjnd,dssd,SDA,,74021,TR,,+905365874563
+338,reger,ergerger,ergeg,grgre,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,AKDENIZ,,33020,TR,Mersin,
+339,reger,ergerger,ergeg,grgre,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,AKDENIZ,,33020,TR,Mersin,
+340,,,,,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,AKDENIZ,,33020,TR,Mersin,
+341,reger,ergerger,ergeg,grgre,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,AKDENIZ,,33020,TR,Mersin,
+342,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+343,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+344,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+345,,,,,Çay Mah. 6489 Sk. No:6 Kat:1 Akdeniz / Mersin,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+346,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+347,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz /,MERSIN,,33020,TR,,
+348,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz /,Istanbul,,33020,TR,,
+349,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz /,MERSIN,,33020,TR,,
+350,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz /,MERSIN,,33020,TR,,
+351,,,,,Tosmurlu ,6489 Sk. No:6 Kat:1 Akdeniz /,MERSIN,,33940,TR,,
+352,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz /,MERSIN,,33020,TR,,
+353,reger,ergerger,ergeg,grgre,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,AKDENIZ,,33020,TR,Mersin,
+354,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,Jaipur,qqqqqqq,302033,IN,Rajasthan,
+355,,,,,Beylice Mah.,Beylice Sk.No:478 Tarsus,MERSIN,,33402,TR,,
+356,,,,,Beylice Mah. Beylice,Sk.No:478 Tarsus,MERSIN,,33402,TR,,
+357,,,,,Beylice Mah. Beylice,Beylice Sk.No:478 Tarsus,MERSIN,,33402,TR,,
+358,,,,,BeyliceMah.Beylice,BeyliceSkNo:478Tarsus,MERSIN,,33400,TR,,
+359,,,,,Beylice Mah .Beylice,Beylice SkNo :478 Tarsus,MERSIN,,33402,TR,,
+360,,,,,Beylice Mah.,Beylice SkNo :478 Tarsus,MERSIN,,33402,TR,,
+361,,,,,Çay Mah.,6489 Sk. No:6 Kat:1 Akdeniz,MERSIN,,33020,TR,,
+362,,,,,Beylice Mah.,Beylice Sk.No:478 Tarsus,MERSIN,,33402,TR,,
+363,,,,,Beylice,Beylice Sk.No:478 Tarsus,MERSIN,,33402,TR,,
+365,,,,,Çay Mah. 6489 Sk. No:6 Kat:1 Akdeniz ,,MERSIN,,33020,TR,,
+366,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+367,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302012,IN,Rajasthan,
+368,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+369,,,,,Baspinar OSB,,GAZIANTEP,,27600,TR,,
+370,,,,,Baspinar Neighborhood,5.OSB 83502 Street (Dülük Position) No:15/2 sehitkamil,GAZIANTEP,,27000,TR,Gurugram,+905365874596
+371,,,,,Başpınar Neighborhood,5.OSB 83502 Street (Dülük Position) No:15/2 Şehitkamil,GAZIANTEP,,27000,TR,,
+373,,,,,Karşıyaka Mah,Ankara Bulvarı No: 268,DENIZLI,,20020,TR,,
+374,,,,,dcs,dsvd,MERSIN,,33110,TR,,
+376,,,,,Beylice Mah.,Beylice Sk.No:478 Tarsus,MERSIN,,33402,TR,,+905325457852
+377,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+378,,,,,Sahil Yolu Caddesi,Yeni,Istanbul,,33050,TR,,
+379,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+380,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+381,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+382,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+383,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+384,,,,,,Ömer Avni,ISTANBUL,,34427,TR,,
+385,,,,,,Ömer Avni,ISTANBUL,,34427,TR,,
+386,,,,,,Ömer Avni,ISTANBUL,,34427,TR,,
+387,Office,,,,"10/142, dd","rajat path, mansarover",JAIPUR,,302020,IN,Rajasthan,+919087654321
+389,,,,,Beylice Sk.No:478,Beylice Sk.No:478,MERSIN,,33402,TR,,
+390,,,,,Ataturk bulvari Goreme yolu no 69,Cappadocia,NEVSEHIR,,50500,TR,,
+391,,,,,Ataturk bulvari Goreme yolu no 69,Cappadocia,NEVSEHIR,,50500,TR,,
+392,,,,,,Ömer Avni,ISTANBUL,,34427,TR,,
+393,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+394,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+395,,,,,Sahil Yolu Caddesi,Yeni,Mersin ,,33050,TR,,
+396,,,,,Beylice Mah.,Beylice Sk.No:478,MERSIN,,33402,TR,,+905345857458
+397,,,,,Saint Nicholas Avenue,,ALWAR,,36426,TR,,
+398,,,,,Saint Nicholas Avenue,,ALWAR,,36426,TR,,
+399,,,,,Saint Nicholas Avenue,,ALWAR,,36426,TR,,
+400,,,,,Saint Nicholas Avenue,,ALWAR,,36426,TR,,
+401,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+402,,,,,Çay Mh. 6489 Sk. No:6 Akdeniz,,MERSIN,,33020,TR,,+905320000000
+403,,,,,Zeytinli Bahçe Cad./123. Sok.,İhsaniye,Mersin,,33070,TR,,
+404,,,,,Yeni Mahalle,"Cumhuriyet Bulvarı No: 73/4, Kazanlı",MERSİN,,33115,TR,,+903242411111
+405,,,,,Soğuksu Cad.,Çankaya,Mersin,,33010,TR,,
+406,,,,,Soğuksu Cad.,Çankaya,MERSIN,,33010,TR,,
+407,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+408,,,,,Mersin Üniversitesi,Çiftlikköy,MERSIN,,33110,TR,,
+409,,,,,Cuma Ali Ağırman Sokak,Osmaniye,MERSIN,,33220,TR,,
+410,reger,ergerger,ergeg,grgre,Çay Mah. 6489 Sk. No:6 Kat:1,gergerg,Akdeniz,egerger,33020,TR,Mersin,
+411,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+412,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",Güllük,Mugla,,48670,TR,Rajasthan,
+413,,,,,Mersin Üniversitesi,Bahçelievler,MERSIN,,33140,TR,,
+414,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,Airport Road,qqqqqqqq,JAIPUR,,302029,IN,Rajasthan,
+415,,,,,Çilek Mah. 139. Cad. No. 11-A P.K,,MERSIN,,33020,TR,,
+416,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+417,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+418,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+419,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+420,qqqqqq,qqqqqqqq,qqqqqqq,qqqqqqqqq,"A1, pratap nagar, sanganer",qqqqqqqq,JAIPUR,,302033,IN,Rajasthan,
+421,,,,,Bala Quila Road,,ALWAR,,301001,BM,,
+422,,Ronald,Kirby,,879 Rachel Burg Apt. 233,,Branchland,,05309,US,VT,
+423,,Roy,Fleming,,204 Santos Circles,,Allisonstad,,04147,US,ME,
+424,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+425,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+426,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+427,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+428,,Michael,Tate,,3411 Jennifer Cliff Apt. 965,,West Lauren,,20041,US,VA,
+429,,Rachel,Gates,,72012 Cannon Prairie Suite 222,,East Deborah,,56236,US,MN,
+430,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+431,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+432,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+433,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+434,,Linda,White,,6576 Travis Falls Apt. 604,,Cainville,,20040,US,VA,
+435,,Mariah,Camacho,,7213 Bruce Via,,South Timothytown,,04000,US,ME,
+436,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+437,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+438,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+439,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+440,,Kyle,Dougherty,,681 Rodriguez Stream Apt. 723,,South Stephanie,,05448,US,VT,
+441,,Jason,Gonzales,,633 Travis Walk,,Port Julie,,19813,US,DE,
+442,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+443,,John,Smith,,754 Melissa Union,,Sotostad,,05175,US,VT,
+444,,Timothy,Brown,,22270 Henderson Spurs,,New Justinville,,91139,US,CA,
+445,,Sarah,Crawford,,07604 Susan Fort Suite 218,,Colemanville,,59821,US,MT,
+446,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+447,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+448,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+449,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+450,,Brittany,Wolfe,,803 Reed Expressway Apt. 241,,Perezfort,,03514,US,NH,
+451,,Catherine,Russo,,977 Joseph Roads,,South Jacquelinebury,,62769,US,IL,
+452,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+453,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+454,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+455,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+456,,Jenny,Gomez,,1215 Evans Mews Suite 998,,West Nicole,,86374,US,AZ,
+457,,Julia,Roy,,451 Craig Prairie,,Owensfurt,,18888,US,PA,
+458,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+459,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+460,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+461,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+462,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+463,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+464,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+465,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+466,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+467,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+468,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+469,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+470,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+471,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+472,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+473,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+474,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+475,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+476,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+477,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+478,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+479,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+480,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+481,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+482,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+483,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+484,,,,,Vadi Camp Beach Sile,,ISTANBUL,,34980,TR,,
+485,,,,,Kizilagac Mah Kizilagac sokak 622/2 ULA,,MUGLA,,48640,TR,,+902529239224
+486,,,,,1. Organize Sanayi Bölgesi 1. Cadde,,MALATYA,,44900,TR,,+904222375515
+487,,,,,Organize Sanayi Bölgesi 4. Cadde,,MALATYA,,44900,TR,,+904222375212
+488,,,,,Yeni Mah inonu cad no 94 Kucuk cekmece,,ISTANBUL,,34290,TR,,+905545549255
+489,,,,,İsabeyli Mh. 11. Cd. No.: 24 Nazilli,,IZMIR,,09800,TR,,+902563160394
+490,,,,,Selvili Mah. 4019 Sok. No:55/B KARABAĞLAR,,IZMIR,,35130,TR,,
+491,,,,,İstanbul Anadolu Yakası Organize Sanayi Bölgesi 1. Sanayi Caddesi No: 18 Tuzla,,ISTANBUL,,34953,TR,,
+492,,,,,Çay Mah. 6489,Sk. No:6 Kat:1,MERSIN,,33020,TR,Mersin,+905378584525
+493,,,,,,Güllük,MUGLA,,48670,TR,,
+494,,,,,,Güllük,MUGLA,,48670,TR,,
+495,,,,,,Güllük,MUGLA,,48670,TR,,
+496,,,,,,Güllük,MUGLA,,48670,TR,,
+497,,,,,,Güllük,MUGLA,,48670,TR,,
+498,,,,,,Güllük,MUGLA,,48670,TR,,
+499,,,,,,Güllük,MUGLA,,48670,TR,,
+500,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+501,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+502,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+503,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+504,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+505,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+506,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+507,,,,,Adnan Menderes Bulvarı,Eğriçam,MERSIN,,33160,TR,,
+508,,,,,Rue de la Commune Ouest,,HODEIDAH,,,YE,,
+509,,,,,Rue de la Commune Ouest,,HODEIDAH,,,YE,,
+510,,,,,Rue de la Commune Ouest,,HODEIDAH,,,YE,,
+511,,,,,Sahil Yolu Caddesi,Yeni,MERSIN,,33050,TR,,
+512,,,,,Kuleli Sokağı,Kazım Özalp,ANKARA,,06640,TR,,
+513,,,,,Halifax Regional Municipality,,HALIFAX,,B3H 4P8,CA,NS,
+514,,,,,Communauté-Urbaine-de-Montréal,Ville-Marie,MONTREAL,,H2Y 4B2,CA,QC,
+515,,,,,"As-Salif, Yemen",,SALEEF,,,YE,,
+516,,,,,"As-Salif, Yemen",,SALEEF,,,YE,,
+517,,,,,"As-Salif, Yemen",,SALEEF,,,YE,,
+518,,,,,Metro Vancouver,,VANCOUVER,,V6C 3T4,CA,BC,
+519,,,,,"Aden, Yemen",,ADEN,,,YE,,
+520,,,,,"Aden, Yemen",At-Tawahi,ADEN,,,YE,,
+521,,,,,Tawahi,At-Tawahi,ADEN,,,YE,,
+522,,,,,Tawahi,At-Tawahi,ADEN,,,YE,,
+523,,,,,Tawahi,At-Tawahi,ADEN,,,YE,,
+524,,,,,Communauté-Urbaine-de-Montréal,Ville-Marie,MONTREAL,,H2Y 4B2,CA,QC,
+525,,,,,Raigad,Mazgaon,MUMBAI,,400702,IN,Maharashtra,
+526,,,,,Kolkata,Watganj,KOLKATA,,700023,IN,West Bengal,
+527,,,,,Üsküdar,,HAYDARPASA,,34668,TR,İstanbul,
+528,,,,,Beylikdüzü,,AMBARLI,,34524,TR,İstanbul,
+529,,,,,Konak,,IZMIR,,35230,TR,İzmir,
+530,,,,,Communauté-Urbaine-de-Montréal,Ville-Marie,MONTREAL,,H2Y 4B2,CA,QC,
+531,,,,,Raigad,,MUMBAI,,400702,IN,Maharashtra,
+532,,,,,Raigad,,MUMBAI,,400702,IN,Maharashtra,
+533,,,,,Raigad,,MUMBAI,,400702,IN,Maharashtra,
+534,,,,,Raigad,,MUMBAI,,400702,IN,Maharashtra,
+535,,Gregory,Richardson,,49497 Derrick Row Suite 325,,Jessicatown,,46040,US,IN,
+536,,Jamie,Nicholson,,41671 Cynthia Inlet Apt. 574,,Johnsontown,,99683,US,AK,
+537,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+538,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+539,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+540,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+541,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+542,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+543,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+544,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+545,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+546,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+547,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+548,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+549,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+550,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+551,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+552,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+553,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+554,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+555,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+556,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+557,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+558,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+559,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+560,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+561,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+562,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+563,,Sarah,Oliver,,438 Carl Summit,,West Sean,,82109,US,WY,
+564,,Matthew,Rodriguez,,288 Nguyen Points Suite 340,,North Linda,,99276,US,WA,
+565,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+566,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+567,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+568,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+569,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+570,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+571,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+572,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+573,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+574,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+575,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+576,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+577,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+578,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+579,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+580,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+581,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+582,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+583,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+584,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+585,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+586,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+587,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+588,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+589,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+590,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+591,,Anita,Bolton,,160 Sanchez Ramp,,Lake Robertberg,,46036,US,IN,
+592,,Ian,Sims,,82387 Gonzales Ranch,,Sabrinaborough,,20037,US,DC,
+593,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+594,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+595,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+596,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+597,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+598,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+599,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+600,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+601,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+602,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+603,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+604,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+605,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+606,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+607,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+608,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+609,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+610,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+611,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+612,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+613,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+614,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+615,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+616,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+617,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+618,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+619,,Christopher,Mcclure,,807 Kathryn Trafficway,,Jordanchester,,33378,US,FL,
+620,,Maria,Hunter,,465 Matthew Brook Apt. 493,,East Brenda,,83204,US,ID,
+621,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+622,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+623,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+624,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+625,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+626,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+627,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+628,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+629,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+630,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+631,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+632,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+633,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+634,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+635,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+636,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+637,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+638,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+639,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+640,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+641,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+642,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+643,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+644,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+645,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+646,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+647,,Cheryl,Woodward,,954 Ashley Way,,Lake Chelseachester,,96842,US,HI,
+648,,Katie,Spencer,,3977 Yvonne Flat Apt. 320,,North Danielmouth,,06184,US,CT,
+649,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+650,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+651,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+652,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+653,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+654,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+655,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+656,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+657,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+658,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+659,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+660,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+661,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+662,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+663,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+664,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+665,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+666,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+667,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+668,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+669,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+670,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+671,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+672,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+673,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+674,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+675,,Heather,Jones,,48381 Shaw Mountains,,Seanhaven,,99555,US,AK,
+676,,Sheila,Perez,,7174 Kim Key Suite 703,,Markstad,,84520,US,UT,
+677,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+678,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+679,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+680,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+681,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+682,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+683,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+684,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+685,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+686,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+687,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+688,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+689,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+690,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+691,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+692,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+693,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+694,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+695,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+696,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+697,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+698,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+699,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+700,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+701,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+702,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+703,,Isaac,Pennington,,08975 Chan Club Suite 025,,Lake Brian,,14397,US,NY,
+704,,Charles,Jackson,,5783 Melissa Inlet Suite 240,,Johnville,,99558,US,AK,
+705,Office,Yılmaz Firca,,Yılmaz Firca San. ve Tic. A.S.,Organize Sanayi Bölgesi Gri Cad., ,Bursa,,16159,TR,Nilufer,
+706,Office,Mahmut Yarim,,Mahmut Yarim Gida,Iskenderun Road 12. Km Antakya / HATAY, ,Hatay,,,TR,,
+707,Office,DURMAZLAR,,DURMAZLAR MAKİNA SAN.VE TİC.A.Ş.,"OSB 75. Yıl Bulvarı No:4
+16140  ", ,Bursa,,,TR,Nilüfer,+902242191800
+708,Office,Arbel Bakliyat ,,Arbel Bakliyat Hububat,,,,,,TR,,
+709,Office,Türk Traktor,,TÜRK TRAKTÖR VE ZİRAAT MAK.A.Ş.,Gazi Mahallesi Anadolu Bulvarı No:52 - 52A, ,Ankara,,,TR,Yenimahalle,+903122333333
+710,Office,ORTADOĞU RULMAN,,ORTADOĞU RULMAN SAN.TİC.A.Ş. , İstiklal Mahallesi Hacı Bayram Veli Bulvarı No:76/A, ,Ankara,,,TR,Polatlı,+903126480010
+711,Office,LIA FRUIT UYANIKLAR,,UYANIKLAR GROUP,"Uluderbent, 45600 ", ,Manisa,,,TR,Alasehir, 0090 236 673 30 64
+712,Office,SOLEN,,Solen,4. Organize Sanayi Bölgesi 83412 No’lu Cadde No:4, ,Gaziantep,,,TR,SehitKamil,0090 342 337 27 37
+713,Office,BASHAN,,Bashan Tarimsal Urun,,,,,,TR,,
+714,Office,ERMAKSAN MAKİNA,,ERMAKSAN MAKİNA SAN.VE TİC. A.Ş.,Organize Sanayi Bölgesi Lacivert Cad. No:6 , ,Bursa,,,TR,Nilüfer,+902242947500
+715,Office,HİDROMEK ,,HİDROMEK HİDROLİK VE MEKANİK  İML.SAN.VE TİC.A.Ş. , Ahi Evran OSB Mahallesi Osmanlı Caddesi No:1, ,Ankara,,,TR,Sincan,
+716,Office,Kros Otomotiv,,Kros Otomotiv San. Tic. A.S.,Organize Sanayi Bölgesi , ,Kütahya,,,TR,Alayunt,=9027466250
+717,Office,SANKO ,,SANKO TEKS.İŞLETMELERİ SAN.VE TİC.A.Ş,"Burak Mah, Sani Konukoğlu Bulvarı, No:223", ,Gaziantep,,,TR,Şehitkamil,
+718,Office,CIMSATAS,,ÇUKUROVA İNŞAAT MAKİNALARI SAN .TİC.A.Ş.,Bahçeli Kürkçü Mah. Adana Yolu No: 53/A, ,MERSİN,,,TR,Akdeniz,
+719,Office,ELKON BETON MAKİNALARI,,ELKON BETON MAKİNALARI SAN. VE TİC. A.Ş.,"Gazeteciler Sitesi, Dergiler Sokak No:13", ,Istanbul,,,TR,Esentepe,
+720,Office,KUTLUSAN TARIM EKİPMAN,,KUTLUSAN TARIM EKİPMAN  LOJİSTİK GIDA SAN. İÇ VE DIŞ TİC.LTD.ŞTİ ,ARMUTLU OVASI AKALAN MAH.BAĞIMSIZLIK KÜME EVLERİ NO:106, ,İZMİR,,,TR,KEMALPAŞA,
+721,Office,ESTAŞ ,,ESTAŞ KAM MİLİ İML.İTH.İHR.SAN .TİC.LTD.ŞTİ.,ŞEYH ŞAMİL OSB MAH. HALİS VERMEZOĞLU CAD. NO:57, ,Sivas,,,TR,,
+722,Office,DİRİNLER DÖKÜM,,DİRİNLER DÖKÜM SANAYİ TURİZM LİMAN İŞLETMECİLİĞİ VE TİC..A.Ş.,Atatürk Blv. No:57 P.K.35620 A.O.S.B., ,İZMİR,,,TR,Çiğli,
+723,Office,DALGAKIRAN KOMPRESÖR,,DALGAKIRAN KOMPRESÖR SAN.VE TİC. LTD. ŞTİ. ,Eyüp Sultan Mh. Müminler Cd. No:70 34885, ,İstanbul,,,TR,Sancaktepe,
+724,Office,BİRİNCİ OTOMOTİV ,,BİRİNCİ OTOMOTİV SANAYİ VE TİCARET A.Ş.,"TAYSAD ORGANİZE SANAYİ, 2. CADDE,
+NO:1 41420 ", ,Kocaeli,,,TR,Şekerpınar,
+725,Office,TROPIKAL PET,,TROPIKAL PET,IAYOSB 1. Sanayi Cad. No: 18 ,,Istanbul,,,TR,Tuzla,0090 216 306 66 60
+726,Office,LIDER EVCIL HAYVAN ,,Lider Evcil Hayvan Beslenme Sanayi ve Ticaret Lt,Anadolu Cad. No.41 Kat.10 D.101,,Izmir,,,TR,Bayrakli ,0090 232 479 23 13
+727,Office,BELINAY TARIM ,,Belinay TARIM,"Zeytinlik Mah, 7641 Sokak, No:16/1",,Antalya,,,TR,Kepez,0090 242 341 40 86
+728,Office,DERVISOGLU TARIM,,Dervisoglu Tarim Urunleri,,,,,,TR,,
+729,Office,Korkut Yag Sabun,,Korkut Yag Sabun Sanayi,Organize Sanayi Sitesi 869 Sk. No:11 Kuruçay Mevkii ,,Balikesir ,,,TR,EDREMİT,
+730,Office,Kocabag Saraplari,,Kocabag Saraplari,Adnan Menderes cad. No:40 Güvercinlik Vadisi,,Nevsehir,,,TR,Uchisar,0090384 219 29 79
+731,,,,,Forum Istanbul shopping center,,ISTANBUL,,34045,TR,,+905365412545
+732,,,,,"5-chōme-6-16 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",Fukushima Ward,,,553-0003,JP,大阪府,
+733,,,,,"5-chōme-6-16 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",Fukushima Ward,,,553-0003,JP,大阪府,
+734,,,,,"5-chōme-6-16 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",Fukushima Ward,,,553-0003,JP,大阪府,
+735,,,,,"5-chōme-6-16 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",Fukushima Ward,,,553-0003,JP,大阪府,
+736,,,,,"5-chōme-6-16 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",Fukushima Ward,,,553-0003,JP,大阪府,
+737,Office,,,,"10/142, dd","rajat path, mansarover",JAIPUR,,302020,IN,Rajasthan,+919087654321
